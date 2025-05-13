@@ -1,0 +1,10 @@
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\bin\Debug\prakt16_up1.exe.config
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\bin\Debug\prakt16_up1.exe
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\bin\Debug\prakt16_up1.pdb
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\obj\Debug\prakt16_up1.csproj.AssemblyReference.cache
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\obj\Debug\prakt16_up1.Form1.resources
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\obj\Debug\prakt16_up1.Properties.Resources.resources
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\obj\Debug\prakt16_up1.csproj.GenerateResource.cache
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\obj\Debug\prakt16_up1.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\obj\Debug\prakt16_up1.exe
+C:\Users\banan\source\repos\prakt16_up1\prakt16_up1\obj\Debug\prakt16_up1.pdb
